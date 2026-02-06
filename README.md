@@ -32,12 +32,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bbrandaoooo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
   <img height="200" src="https://i.makeagif.com/media/1-08-2014/bkd0gU.gif"  />
 </div>
 
